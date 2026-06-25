@@ -1,0 +1,5 @@
+process,weekly_requests,repeated_errors,avg_resolution_hours
+Warranty lookup,120,18,6.2
+Replacement part search,95,27,7.5
+Shipment status,140,12,4.1
+Technical documentation search,80,22,8.3

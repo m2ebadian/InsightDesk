@@ -1,0 +1,6 @@
+Support Process Notes
+
+The support team has been receiving repeated questions about warranty status, shipment delays, and replacement part availability.
+The largest slowdown is that employees have to search across multiple files to find the correct answer.
+Several repeated errors happen when the same part number appears in different systems with slightly different naming.
+The team wants a lightweight assistant that can point users to the source of the answer instead of giving unsupported responses.
