@@ -1,0 +1,23 @@
+services:
+  backend:
+    build:
+      context: ./insightdesk-agent
+      dockerfile: backend/Dockerfile
+    restart: unless-stopped
+    environment:
+      MAX_UPLOAD_MB: ${MAX_UPLOAD_MB:-5}
+    volumes:
+      - insightdesk_data:/data
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./insightdesk-agent/frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "3000:80"
+
+volumes:
+  insightdesk_data:

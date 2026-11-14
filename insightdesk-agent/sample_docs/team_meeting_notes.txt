@@ -1,0 +1,13 @@
+Support Team Meeting Notes - October
+
+Attendees: Priya (team lead), Marcus, Jenna, Luis
+
+The team agreed that replacement part search is the biggest pain point right now. It has the most repeated errors and the second longest resolution time.
+
+Decision: the team will prioritize a shared lookup table that maps part numbers between the Orders portal and the warehouse system. Marcus owns this and the target date is the end of November.
+
+Jenna reported that technical documentation search takes the longest to resolve because the manuals are spread across three different shared drives. The team will move all manuals into one folder.
+
+Luis suggested adding saved replies for the top 10 shipment status questions to cut down response time.
+
+Action items: Marcus builds the part number lookup table. Jenna consolidates the manuals. Luis writes the saved replies. Priya will review the ticket numbers again next month.

@@ -1,0 +1,9 @@
+Returns and Replacements
+
+Customers can return unused parts within 30 days of delivery for a full refund. Opened parts can be returned within 30 days for store credit only.
+
+For a defective part under warranty, we send a replacement before the customer ships the broken one back. The customer gets a prepaid return label and has 14 days to send the defective part. If it does not arrive in 14 days, the replacement is billed to the customer.
+
+Replacement orders are shipped with express shipping at no cost. Most replacements arrive in 2 to 3 business days.
+
+Before creating a replacement order, always confirm the part number with the customer. The same part can have different names in the Orders portal and in the warehouse system, for example BRK-2201 is listed as "Brake pad set A" in one system and "Front brake kit" in the other. Using the wrong name is the most common cause of shipping the wrong replacement.

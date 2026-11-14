@@ -1,0 +1,7 @@
+line-length = 110
+target-version = "py312"
+src = ["insightdesk-agent/backend"]
+
+[lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["B008"]  # FastAPI uses function calls (File, Query) as defaults

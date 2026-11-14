@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+insightdesk-agent/backend/data/
+
+node_modules/
+dist/
+.DS_Store
